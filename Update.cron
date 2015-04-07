@@ -1,0 +1,1 @@
+00 09 * * 3 [ $(date +\%d) -le 07 ] && ./GrabAndPush.sh
